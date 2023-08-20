@@ -21,5 +21,8 @@ public class Class01 {
         //Versiyon 7 Kodları
         System.out.println("Versiyon 7");
 
+
+        // Versiyon 8 Kodları
+        System.out.println("Versiyon 8");
     }
 }
